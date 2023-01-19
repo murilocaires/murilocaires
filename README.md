@@ -33,6 +33,8 @@ Estudante de Ciência da Computação - UFC 👨‍💻
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
    <hr width="50%" >
+ 
+ 
 </div>
   
  
