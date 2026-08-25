@@ -16,16 +16,11 @@
 <h3 align="center">Olá! Meu nome é Murilo Caires!</h3><br>
 
 ```
-Estudante de Ciência da Computação - UFC 👨‍💻
+Bacharel em Ciência da Computação - UFC 👨‍💻
 ```
 
 
-<div align="center">
-  <a href="https://github.com/murilocaires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilocaires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilocaires&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 <div style="display: inline_block" align="center"><br>
